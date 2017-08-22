@@ -284,4 +284,5 @@ TSWLatexianTemp*
 
 # End of https://www.gitignore.io/api/latex,elisp,emacs
 
-*.bak*
+*bak.enl
+originals/EndNote/list of references (annotated).Data/*
