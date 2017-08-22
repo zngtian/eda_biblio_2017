@@ -1,0 +1,32 @@
+#+TITLE: Annotated Bibliography (Updated)
+#+AUTHOR: Zheng Tian, Jin Chen
+#+EMAIL: zngtian@gmail.com
+#+DATE: <2017-08-22 Tue>
+#+OPTIONS: H:3 num:2 toc:nil
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
+#+LATEX_HEADER: \usepackage[margin=1.2in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \onehalfspacing
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \usepackage{caption}
+#+LATEX_HEADER: \usepackage{subcaption}
+#+LATEX_HEADER: \usepackage[round]{natbib}
+#+LATEX_HEADER: \hypersetup{colorlinks,citecolor=black,filecolor=black,linkcolor=black,urlcolor=black}
+#+LATEX_COMPILER: xelatex
+
+
+* Introduction label:introduction
+
+* Literature by Category label:lit_category
+
+- A paper: cite:Simmie2003
+
+* Annotated Bibliography label:annotated_bib
+
+
+bibliography:regional_innovation.bib
+bibliographystyle:plainnat

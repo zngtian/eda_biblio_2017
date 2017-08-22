@@ -4,6 +4,7 @@
 ### Elisp ###
 # Compiled
 *.elc
+*.el
 
 # Packaging
 .cask
@@ -286,3 +287,5 @@ TSWLatexianTemp*
 
 *bak.enl
 originals/EndNote/list of references (annotated).Data/*
+/newdocs/auto/regional_innovation.el
+/newdocs/auto/regional_innovation_annotate_bibliography.el
