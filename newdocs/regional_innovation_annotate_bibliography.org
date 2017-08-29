@@ -19,14 +19,13 @@
 #+LATEX_COMPILER: xelatex
 
 
-* Introduction label:introduction
+* Introduction
 
-* Literature by Category label:lit_category
 
-- A paper: cite:Simmie2003
+* Literature by Category
 
-* Annotated Bibliography label:annotated_bib
 
+* Annotated Bibliography
 
 bibliography:regional_innovation.bib
 bibliographystyle:plainnat
