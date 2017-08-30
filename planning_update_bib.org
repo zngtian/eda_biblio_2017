@@ -7,12 +7,12 @@
 
 * Tasks
 
-** TODO Review original documents 
+** NEXT Review original documents 
 <2017-08-23 Wed>-<2017-09-15 Fri>
 - [X] Transfer the original EndNote file to a bibtex file.
-- [ ] Complete the missing bibtex items in the bibtex file. 
-- [ ] Add the pdf files of the papers.
-- [ ] Refine original annotations.
+- [X] Complete the missing bibtex items in the bibtex file. 
+- [X] Add the pdf files of the papers.
+- [ ] Copy and refine original annotated bibliography into LaTeX. 
 
 ** TODO Add new papers
 <2017-09-18 Mon>-<2017-11-03 Fri>
