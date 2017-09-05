@@ -9,11 +9,10 @@
 
 ** NEXT Review original documents 
 <2017-08-23 Wed>-<2017-09-15 Fri>
-- [X] Transfer the original EndNote file to a bibtex file.
-- [X] Complete the missing bibtex items in the bibtex file. 
-- [X] Add the pdf files of the papers.
-- [ ] Copy and refine original annotated bibliography into LaTeX. 
-
+*** DONE Transfer the original EndNote file to a bibtex file.
+*** DONE Complete the missing bibtex items in the bibtex file. 
+*** DONE Add the pdf files of the papers.
+*** TODO Copy and refine original annotated bibliography into LaTeX
 ** TODO Add new papers
 <2017-09-18 Mon>-<2017-11-03 Fri>
 - [ ] Add new papers after 2010.
@@ -22,8 +21,14 @@
 
 ** TODO Write a brief literature review
 <2017-11-06 Mon>-<2017-11-17 Fri>
-- [ ] Write the annotated bibliography with literature review with
-  LaTeX. 
+*** TODO Write the annotated bibliography with literature review with LaTeX. 
+**** An explanation and examples of annotated bibliography
+https://owl.english.purdue.edu/owl/resource/614/1/
+
+**** A latex work flow to generate an annotated bibliography
+Here is a work flow for generating an annotated bibliography with
+latex,
+http://math.ucdenver.edu/~billups/courses/ma5779/annotated_bibliography.html. 
 
 * Project Maintenance 
 
@@ -42,3 +47,5 @@ both old and new ones. The new bibtex file is
 ** New LaTeX file
 We use a latex file to rewrite the annotated bibliography. The latex
 is [[file:newdocs/regional_innovation_annotate_bibliography.tex][/newdocs/regional_innovation_annotate_bibliography.tex]]. 
+
+* New papers added
