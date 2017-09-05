@@ -32,3 +32,13 @@
 - +Mendeley is used to manage bibliography items.+
 - Mendeley does not support exporting with pdf files. Use Zotero,
   instead. 
+
+* Files to work
+** New bibtex file
+We have created a new bibtex file to contain all bibliography items,
+both old and new ones. The new bibtex file is
+[[file:newdocs/regional_innovation.bib][/newdocs/regional_innovation.bib]]. 
+
+** New LaTeX file
+We use a latex file to rewrite the annotated bibliography. The latex
+is [[file:newdocs/regional_innovation_annotate_bibliography.tex][/newdocs/regional_innovation_annotate_bibliography.tex]]. 
